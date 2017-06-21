@@ -30,7 +30,7 @@ If you are interested in contributing to this project, please contact me private
 
 ## Project Source
 
-This project can be downloaded in full for free from : https://github.com/dumbgamedev/outlineEffect_Playmaker
+This project can be downloaded in full for free from : https://github.com/dumbgamedev/shadowDetect-playmaker/
 
 ## Tutorial
 
